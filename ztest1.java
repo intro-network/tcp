@@ -1,3 +1,3 @@
 Class A {
- foo();
+ //I don't like it
 }
